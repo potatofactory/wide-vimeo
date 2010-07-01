@@ -13,8 +13,16 @@
 }
 
 .description_container {
-	width: 550px !important;
+	width: 540px !important;
 	margin-left: 350px !important;
 	margin-top: -380px !important;
 	position: relative !important;
+}
+
+.brozar .more {
+	height: 340px !important;
+}
+
+.brozar .more .scrolly_container {
+	height: 280px !important;
 }
