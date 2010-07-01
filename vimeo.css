@@ -1,8 +1,9 @@
-.video, .html5_player, .html5_player video{
+.video, .html5_player, .html5_player video, .player{
 	width:845px !important;;
 	height:505px !important;
 }
-.html5_player{
+
+.html5_player, .player{
 	margin-left:50px !important;
 	margin-bottom:10px !important;
 }
