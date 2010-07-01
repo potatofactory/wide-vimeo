@@ -23,6 +23,8 @@
 	height: 340px !important;
 }
 
-.brozar .more .scrolly_container {
+.brozar .more .scrolly_container,
+.brozar .more .scrolly_container .scrolly_area,
+.brozar .more .scrolly_container .content {
 	height: 280px !important;
 }
