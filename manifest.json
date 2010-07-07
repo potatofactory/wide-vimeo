@@ -1,5 +1,6 @@
 {
    "content_scripts": [ {
+			"exclude_globs": [ "http://*.vimeo.com/channels/*", "http://vimeo.com/channels/*" ],
       "include_globs": [ "http://*.vimeo.com/*", "http://vimeo.com/*"],
 			"css": [ "vimeo.css" ],
       "matches": [ "http://*/*", "https://*/*" ]
