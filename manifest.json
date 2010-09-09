@@ -3,7 +3,7 @@
 			"exclude_globs": [ "http://*.vimeo.com/channels/*", "http://vimeo.com/channels/*" ],
       "include_globs": [ "http://*.vimeo.com/*", "http://vimeo.com/*"],
 			"css": [ "vimeo.css" ],
-      "matches": [ "http://*/*", "https://*/*" ]
+			"matches": [ "http://*.vimeo.com/*", "https://*.vimeo.com/*"]
    } ],
    "description": "Wider Vimeo style to get a wider video like in Youtube.",
    "name": "Wider Vimeo",
