@@ -1,4 +1,4 @@
-.video, .html5_player, .html5_player video, .player{
+#meat .video, #meat .html5_player, #meat .html5_player video, #meat .player{
 	width:940px !important;;
 	height:561px !important;
 }
